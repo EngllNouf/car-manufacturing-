@@ -1,8 +1,8 @@
 
 package lab3;
 import java.util.Scanner;
-
-
+// nouf mohammed aljedaani 
+// second commit
 interface DocumentTemplate extends Cloneable {
     public DocumentTemplate makeCopy();
 }
